@@ -6,10 +6,14 @@ Awesome Stars with Ressed Panda
 
 ## 내용
  - [Awesome](#Awesome)
- - [개발](#개발)
+ - [자바](#자바)
+   - [파싱](#파싱)
    - [코딩 컨벤션](#코딩-컨벤션)
+ - [자바스크립트](#자바스크립트)
+   - [모듈 번들러](#모듈-번들러)
  - [리소스](#리소스)
    - [폰트](#폰트)
+   - [알고리즘](#알고리즘)
 
 ## Awesome
  - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - 프론트엔드 웹 개발을 위한 리소스 목록
