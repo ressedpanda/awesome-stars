@@ -14,8 +14,8 @@ Awesome Stars with Ressed Panda
  - [리소스](#리소스)
    - [폰트](#폰트)
    - [알고리즘](#알고리즘)
- - [AWS](#AWS)
-  - [Route53](#Route53)
+ - [AWS](#aws)
+  - [Route53](#route-53)
 
 ## Awesome
  - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - 프론트엔드 웹 개발을 위한 리소스 목록
