@@ -14,7 +14,7 @@ Awesome Stars with Ressed Panda
  - [리소스](#리소스)
    - [폰트](#폰트)
    - [알고리즘](#알고리즘)
- - [AWS](#AWS]
+ - [AWS](#AWS)
   - [Route53](#Route53)
 
 ## Awesome
